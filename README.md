@@ -3,21 +3,20 @@
 <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🖐🏻 Introduce 🖐🏻 </h3>
 
 <div>
-  🌱 Web Developer <br/>
-  🎓 Computer Engineering <br/>
-  ✉️ lgh4155@naver.com <br/>
+
+  * 🌱 Web Developer
+  * 🎓 Computer Engineering
+  * ✉️ lgh4155@naver.com
+
 </div>
+
+<br/>
    <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaaahee&layout=compact)](https://github.com/gaaahee/github-readme-stats) -->
-   
-   <br/>
- </div>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats 📊 </h3>
- 
- <div>
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gaaahee)](https://github.com/stats-organization/github-stats-extended)
- </div>
+
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=gaaahee)](https://github.com/stats-organization/github-stats-extended) 
  
  <br/>
 
